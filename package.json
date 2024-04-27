@@ -1,0 +1,14 @@
+{
+  "name": "simulador-mario-kart",
+  "version": "1.0.0",
+  "description": "Simulador do game Mario Kart (Terminal)",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno M. Soares",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
